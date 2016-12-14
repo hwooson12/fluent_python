@@ -1,7 +1,7 @@
 #### joe made this: http://goel.io/joe
 
 #####=== Python ===#####
-
+.ipynb*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
